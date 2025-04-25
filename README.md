@@ -21,4 +21,4 @@ This is a backend API built with **ASP.NET Core** that fetches stories from Hack
 Clone the repository to your local machine using Git:
 
 ```bash
-git clone https://github.com/<your-username>/hackernews-api.git
+https://github.com/NiketGhodvinde/HackerNews-Api/tree/master
